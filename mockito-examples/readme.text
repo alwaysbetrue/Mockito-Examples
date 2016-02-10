@@ -1,0 +1,3 @@
+This repository demonstrates several Mockito operations.
+
+For ArgumentCaptor, please reference http://javarticles.com/2015/08/mockito-argumentcaptor-example.html as the original source of the example.
